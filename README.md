@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Preetham 
 - 👀 I’m worked as Software development in Machine learning and AI applications
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Software development,Machine learning and AI
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me drop an email or message
 
 <!---
