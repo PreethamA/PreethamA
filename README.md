@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Preetham 
+- 👋 Hi, I’m  Preetham 
 - 👀 I’m Data and AI Enthusiast
 - 📫 How to reach me drop an email or message
 
